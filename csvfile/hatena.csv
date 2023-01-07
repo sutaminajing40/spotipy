@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+声?,0.42,0.964,5,-3.35,1,0.0902,0.015,0,0.207,0.584,170.019,audio_features,00EAiVX99rZ4rlYFLItPcC,spotify:track:00EAiVX99rZ4rlYFLItPcC,https://api.spotify.com/v1/tracks/00EAiVX99rZ4rlYFLItPcC,https://api.spotify.com/v1/audio-analysis/00EAiVX99rZ4rlYFLItPcC,247307,4
+夢?,0.676,0.701,5,-4.849,1,0.0407,0.146,0,0.181,0.702,92.504,audio_features,1DAJpvV2JWXgx1RMR2qyBq,spotify:track:1DAJpvV2JWXgx1RMR2qyBq,https://api.spotify.com/v1/tracks/1DAJpvV2JWXgx1RMR2qyBq,https://api.spotify.com/v1/audio-analysis/1DAJpvV2JWXgx1RMR2qyBq,254270,4

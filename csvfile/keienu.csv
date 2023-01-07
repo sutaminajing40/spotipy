@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+プラトニック・ラヴ,0.71,0.601,2,-6.816,1,0.0463,0.367,0.000285,0.234,0.572,110.019,audio_features,3PNK56m8gqrJCVuiQOxWAz,spotify:track:3PNK56m8gqrJCVuiQOxWAz,https://api.spotify.com/v1/tracks/3PNK56m8gqrJCVuiQOxWAz,https://api.spotify.com/v1/audio-analysis/3PNK56m8gqrJCVuiQOxWAz,218000,4

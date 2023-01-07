@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+plus jamais,0.64,0.33,10,-20.863,0,0.0541,0.738,0.931,0.0924,0.189,119.982,audio_features,0qoOYBMFeRcw95dgNRnBYC,spotify:track:0qoOYBMFeRcw95dgNRnBYC,https://api.spotify.com/v1/tracks/0qoOYBMFeRcw95dgNRnBYC,https://api.spotify.com/v1/audio-analysis/0qoOYBMFeRcw95dgNRnBYC,75968,4

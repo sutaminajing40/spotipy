@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ICE COLD,0.502,0.475,1,-10.057,1,0.0306,0.102,0.815,0.171,0.118,144.018,audio_features,39bbiZOK3qvKeaM3NnkiFZ,spotify:track:39bbiZOK3qvKeaM3NnkiFZ,https://api.spotify.com/v1/tracks/39bbiZOK3qvKeaM3NnkiFZ,https://api.spotify.com/v1/audio-analysis/39bbiZOK3qvKeaM3NnkiFZ,173437,4
+Mathilda,0.31,0.216,7,-11.756,0,0.0393,0.172,0.916,0.109,0.0929,117.023,audio_features,3O2bNHK6F3lven6tiomyjp,spotify:track:3O2bNHK6F3lven6tiomyjp,https://api.spotify.com/v1/tracks/3O2bNHK6F3lven6tiomyjp,https://api.spotify.com/v1/audio-analysis/3O2bNHK6F3lven6tiomyjp,130290,4

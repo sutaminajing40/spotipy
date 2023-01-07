@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Mon kafrine mon doudou - Version sega,0.522,0.795,6,-6.922,0,0.0408,0.0706,0,0.232,0.856,121.774,audio_features,2iTguKFdV0FxfonQzRGlwy,spotify:track:2iTguKFdV0FxfonQzRGlwy,https://api.spotify.com/v1/tracks/2iTguKFdV0FxfonQzRGlwy,https://api.spotify.com/v1/audio-analysis/2iTguKFdV0FxfonQzRGlwy,241345,4
+Zot Zistoir,0.833,0.718,7,-6.419,1,0.067,0.126,0,0.0709,0.765,120.096,audio_features,2DmjSHEx3LepcZeJCxJojr,spotify:track:2DmjSHEx3LepcZeJCxJojr,https://api.spotify.com/v1/tracks/2DmjSHEx3LepcZeJCxJojr,https://api.spotify.com/v1/audio-analysis/2DmjSHEx3LepcZeJCxJojr,276585,4

@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+今、このとき。,0.639,0.825,7,-3.521,1,0.0346,0.0018,1.01e-06,0.126,0.499,124.029,audio_features,3FujBBfhkuLZJeLe6Ec8g7,spotify:track:3FujBBfhkuLZJeLe6Ec8g7,https://api.spotify.com/v1/tracks/3FujBBfhkuLZJeLe6Ec8g7,https://api.spotify.com/v1/audio-analysis/3FujBBfhkuLZJeLe6Ec8g7,289000,4
+今、このとき。(album ver.),0.651,0.85,7,-3.195,1,0.0348,0.00111,2.22e-05,0.121,0.597,123.998,audio_features,7BNMfZsIdAzY8G1yR9FLwL,spotify:track:7BNMfZsIdAzY8G1yR9FLwL,https://api.spotify.com/v1/tracks/7BNMfZsIdAzY8G1yR9FLwL,https://api.spotify.com/v1/audio-analysis/7BNMfZsIdAzY8G1yR9FLwL,290560,4

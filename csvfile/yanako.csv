@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+こけたっ feat.音街ウナ,0.501,0.909,1,-1.613,1,0.0559,0.00726,0.00013,0.145,0.765,145.02,audio_features,6U4ChfPbnBfB3oQ4UiDBjt,spotify:track:6U4ChfPbnBfB3oQ4UiDBjt,https://api.spotify.com/v1/tracks/6U4ChfPbnBfB3oQ4UiDBjt,https://api.spotify.com/v1/audio-analysis/6U4ChfPbnBfB3oQ4UiDBjt,202000,4

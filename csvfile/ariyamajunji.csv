@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Baby お前が好きだよ,0.727,0.368,4,-13.59,1,0.0377,0.584,0.199,0.598,0.539,111.328,audio_features,7fgIaaM5hai30JnGYiUNcR,spotify:track:7fgIaaM5hai30JnGYiUNcR,https://api.spotify.com/v1/tracks/7fgIaaM5hai30JnGYiUNcR,https://api.spotify.com/v1/audio-analysis/7fgIaaM5hai30JnGYiUNcR,277401,4

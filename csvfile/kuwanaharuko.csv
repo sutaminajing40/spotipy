@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Bonin の島,0.454,0.412,9,-8.045,1,0.0322,0.597,0,0.148,0.525,174.118,audio_features,2cbsCMZdix7Sc2fzD6cDx5,spotify:track:2cbsCMZdix7Sc2fzD6cDx5,https://api.spotify.com/v1/tracks/2cbsCMZdix7Sc2fzD6cDx5,https://api.spotify.com/v1/audio-analysis/2cbsCMZdix7Sc2fzD6cDx5,271707,4

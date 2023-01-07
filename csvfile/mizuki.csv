@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+時間之河,0.639,0.458,7,-8.082,1,0.0399,0.766,0,0.175,0.382,135.941,audio_features,4YjZz5w9w0f6RK9TQbH42n,spotify:track:4YjZz5w9w0f6RK9TQbH42n,https://api.spotify.com/v1/tracks/4YjZz5w9w0f6RK9TQbH42n,https://api.spotify.com/v1/audio-analysis/4YjZz5w9w0f6RK9TQbH42n,202000,4
+時間之河 - 伴奏,0.641,0.344,7,-12.123,1,0.0304,0.0453,0.766,0.172,0.124,136.04,audio_features,5DZIuHtbZkQ2AQzJaU2TUH,spotify:track:5DZIuHtbZkQ2AQzJaU2TUH,https://api.spotify.com/v1/tracks/5DZIuHtbZkQ2AQzJaU2TUH,https://api.spotify.com/v1/audio-analysis/5DZIuHtbZkQ2AQzJaU2TUH,202000,4

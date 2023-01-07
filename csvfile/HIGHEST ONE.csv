@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+傷痕,0.54,0.945,8,-2.576,1,0.0424,0.00481,0,0.328,0.494,102.517,audio_features,0cF7tZ9GeYmsz4VbdTuJ0c,spotify:track:0cF7tZ9GeYmsz4VbdTuJ0c,https://api.spotify.com/v1/tracks/0cF7tZ9GeYmsz4VbdTuJ0c,https://api.spotify.com/v1/audio-analysis/0cF7tZ9GeYmsz4VbdTuJ0c,309731,4
+illicit love,0.434,0.608,1,-5.35,0,0.03,0.288,6.79e-06,0.144,0.318,169.975,audio_features,4aoH0KOVfV1mmueWKKHbxy,spotify:track:4aoH0KOVfV1mmueWKKHbxy,https://api.spotify.com/v1/tracks/4aoH0KOVfV1mmueWKKHbxy,https://api.spotify.com/v1/audio-analysis/4aoH0KOVfV1mmueWKKHbxy,239689,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+CONCEAL,0.816,0.631,8,-9.458,0,0.0882,0.0175,1.95e-06,0.0776,0.497,111.966,audio_features,5h9DSIxwM80NbCOuPjQpfO,spotify:track:5h9DSIxwM80NbCOuPjQpfO,https://api.spotify.com/v1/tracks/5h9DSIxwM80NbCOuPjQpfO,https://api.spotify.com/v1/audio-analysis/5h9DSIxwM80NbCOuPjQpfO,194000,4

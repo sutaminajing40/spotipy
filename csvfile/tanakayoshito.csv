@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+TIMELINE,0.605,0.784,11,-5.418,0,0.0384,0.00108,0.666,0.258,0.694,101.966,audio_features,5MapyYnUMA9m233P7FuW6T,spotify:track:5MapyYnUMA9m233P7FuW6T,https://api.spotify.com/v1/tracks/5MapyYnUMA9m233P7FuW6T,https://api.spotify.com/v1/audio-analysis/5MapyYnUMA9m233P7FuW6T,304513,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+RIOT,0.394,0.939,2,-1.706,1,0.126,0.000744,0.241,0.356,0.136,179.957,audio_features,4onluwupxaETxiabwcdeFH,spotify:track:4onluwupxaETxiabwcdeFH,https://api.spotify.com/v1/tracks/4onluwupxaETxiabwcdeFH,https://api.spotify.com/v1/audio-analysis/4onluwupxaETxiabwcdeFH,245333,4

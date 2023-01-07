@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ララバイ (サイコアーマー ゴーバリアン),0.541,0.438,0,-9.484,1,0.0267,0.0271,0.781,0.13,0.114,158.107,audio_features,6og8qtqooxui0WLMt3428x,spotify:track:6og8qtqooxui0WLMt3428x,https://api.spotify.com/v1/tracks/6og8qtqooxui0WLMt3428x,https://api.spotify.com/v1/audio-analysis/6og8qtqooxui0WLMt3428x,236693,4

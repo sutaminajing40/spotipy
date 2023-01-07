@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ZEN X MWAVEY,0.83,0.571,1,-9.13,1,0.357,0.185,7.34e-06,0.0695,0.577,142.02,audio_features,1btPLZ6fXI4VYdLA0l7Vhm,spotify:track:1btPLZ6fXI4VYdLA0l7Vhm,https://api.spotify.com/v1/tracks/1btPLZ6fXI4VYdLA0l7Vhm,https://api.spotify.com/v1/audio-analysis/1btPLZ6fXI4VYdLA0l7Vhm,125099,4

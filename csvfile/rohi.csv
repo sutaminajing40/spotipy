@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+バーチャルエンジョルノ,0.582,0.987,0,-2.746,1,0.131,0.0201,0.427,0.284,0.557,111.047,audio_features,1PDa8UnfNAXx1t87MadR4Y,spotify:track:1PDa8UnfNAXx1t87MadR4Y,https://api.spotify.com/v1/tracks/1PDa8UnfNAXx1t87MadR4Y,https://api.spotify.com/v1/audio-analysis/1PDa8UnfNAXx1t87MadR4Y,200473,4

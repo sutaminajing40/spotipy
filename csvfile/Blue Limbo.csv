@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Blue Limbo,0.627,0.283,10,-13.235,1,0.0311,0.74,8.15e-06,0.152,0.415,138.901,audio_features,79J9shuIG8xmMVhSIv19Ht,spotify:track:79J9shuIG8xmMVhSIv19Ht,https://api.spotify.com/v1/tracks/79J9shuIG8xmMVhSIv19Ht,https://api.spotify.com/v1/audio-analysis/79J9shuIG8xmMVhSIv19Ht,203813,4

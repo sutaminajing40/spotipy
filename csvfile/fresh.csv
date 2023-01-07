@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Suicidal,0.489,0.431,7,-15.057,1,0.523,0.0474,0,0.157,0.237,86.672,audio_features,6iNUGTRhoEhs7xBcTp7Dh6,spotify:track:6iNUGTRhoEhs7xBcTp7Dh6,https://api.spotify.com/v1/tracks/6iNUGTRhoEhs7xBcTp7Dh6,https://api.spotify.com/v1/audio-analysis/6iNUGTRhoEhs7xBcTp7Dh6,179285,4

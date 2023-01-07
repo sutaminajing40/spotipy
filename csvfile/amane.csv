@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ナンセコンナセンス,0.625,0.862,6,-2.605,1,0.102,0.00945,0,0.226,0.91,160.005,audio_features,7iutxnfcC07MY0jwv7jpMb,spotify:track:7iutxnfcC07MY0jwv7jpMb,https://api.spotify.com/v1/tracks/7iutxnfcC07MY0jwv7jpMb,https://api.spotify.com/v1/audio-analysis/7iutxnfcC07MY0jwv7jpMb,200068,3
+drizzly rain,0.517,0.982,10,-1.923,1,0.0513,0.0275,0.543,0.337,0.642,149.996,audio_features,1XLsKckTSSH9rkEnOiUfkI,spotify:track:1XLsKckTSSH9rkEnOiUfkI,https://api.spotify.com/v1/tracks/1XLsKckTSSH9rkEnOiUfkI,https://api.spotify.com/v1/audio-analysis/1XLsKckTSSH9rkEnOiUfkI,244998,4

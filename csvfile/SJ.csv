@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Beethoven Virus,0.412,0.964,9,-5.107,0,0.275,0.000143,0.939,0.105,0.355,162.097,audio_features,7fFlkS4JijAyCEm0cnp1My,spotify:track:7fFlkS4JijAyCEm0cnp1My,https://api.spotify.com/v1/tracks/7fFlkS4JijAyCEm0cnp1My,https://api.spotify.com/v1/audio-analysis/7fFlkS4JijAyCEm0cnp1My,107190,4
+Choppa,0.896,0.578,4,-8.768,1,0.518,0.742,0,0.236,0.934,136.931,audio_features,7qq5ziYzgOzJsVju0pgCQj,spotify:track:7qq5ziYzgOzJsVju0pgCQj,https://api.spotify.com/v1/tracks/7qq5ziYzgOzJsVju0pgCQj,https://api.spotify.com/v1/audio-analysis/7qq5ziYzgOzJsVju0pgCQj,213786,4

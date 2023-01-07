@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+軍も鬼 絵、鰤、碗。,0.462,0.532,8,-10.333,1,0.102,0.127,0.000714,0.0722,0.523,112.752,audio_features,4taRGbLclbi8iNe9RfpJ6v,spotify:track:4taRGbLclbi8iNe9RfpJ6v,https://api.spotify.com/v1/tracks/4taRGbLclbi8iNe9RfpJ6v,https://api.spotify.com/v1/audio-analysis/4taRGbLclbi8iNe9RfpJ6v,126166,1

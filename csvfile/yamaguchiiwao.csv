@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ラジオ体操第1 山形編,0.686,0.37,2,-8.572,1,0.677,0.852,3.54e-06,0.0815,0.52,136.517,audio_features,1kxcnV5SHUYHa9KwrV4OmJ,spotify:track:1kxcnV5SHUYHa9KwrV4OmJ,https://api.spotify.com/v1/tracks/1kxcnV5SHUYHa9KwrV4OmJ,https://api.spotify.com/v1/audio-analysis/1kxcnV5SHUYHa9KwrV4OmJ,199333,4

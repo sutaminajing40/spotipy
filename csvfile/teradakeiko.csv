@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+"Thank you, love",0.708,0.352,0,-13.14,1,0.0269,0.882,0.00274,0.109,0.399,108.869,audio_features,6JYwgYWZWZgHaHE4TDeaIj,spotify:track:6JYwgYWZWZgHaHE4TDeaIj,https://api.spotify.com/v1/tracks/6JYwgYWZWZgHaHE4TDeaIj,https://api.spotify.com/v1/audio-analysis/6JYwgYWZWZgHaHE4TDeaIj,226700,4
+果てしない炎の中へ - TV-size,0.509,0.975,9,-3.772,1,0.13,0.00295,0,0.254,0.479,137.916,audio_features,35UvKO1bFKU6S3huMN7VGM,spotify:track:35UvKO1bFKU6S3huMN7VGM,https://api.spotify.com/v1/tracks/35UvKO1bFKU6S3huMN7VGM,https://api.spotify.com/v1/audio-analysis/35UvKO1bFKU6S3huMN7VGM,91093,4

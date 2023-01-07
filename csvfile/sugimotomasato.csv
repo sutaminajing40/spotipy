@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+とんでもニャー猫ニャラボルタ,0.675,0.521,1,-8.12,0,0.0489,0.768,0,0.0341,0.699,145.965,audio_features,7IVx51CGHagzAIojy8cS84,spotify:track:7IVx51CGHagzAIojy8cS84,https://api.spotify.com/v1/tracks/7IVx51CGHagzAIojy8cS84,https://api.spotify.com/v1/audio-analysis/7IVx51CGHagzAIojy8cS84,180117,4

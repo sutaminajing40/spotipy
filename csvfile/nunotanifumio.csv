@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+夏バテ,0.595,0.408,0,-8.976,1,0.03,0.511,0,0.445,0.416,141.502,audio_features,3Bl8VgYy8X9e253pHuMvJe,spotify:track:3Bl8VgYy8X9e253pHuMvJe,https://api.spotify.com/v1/tracks/3Bl8VgYy8X9e253pHuMvJe,https://api.spotify.com/v1/audio-analysis/3Bl8VgYy8X9e253pHuMvJe,235734,3

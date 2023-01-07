@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+イヴ,0.57,0.462,0,-7.055,1,0.0303,0.734,4.79e-06,0.256,0.407,175.969,audio_features,0lIdIa1Zfbo2VO8MMzTOIq,spotify:track:0lIdIa1Zfbo2VO8MMzTOIq,https://api.spotify.com/v1/tracks/0lIdIa1Zfbo2VO8MMzTOIq,https://api.spotify.com/v1/audio-analysis/0lIdIa1Zfbo2VO8MMzTOIq,313855,4
+青い紙飛行機,0.511,0.859,8,-4.403,1,0.0485,0.354,0,0.127,0.647,139.973,audio_features,0i2gWrzWQpynuLCeobQ5KN,spotify:track:0i2gWrzWQpynuLCeobQ5KN,https://api.spotify.com/v1/tracks/0i2gWrzWQpynuLCeobQ5KN,https://api.spotify.com/v1/audio-analysis/0i2gWrzWQpynuLCeobQ5KN,250322,4

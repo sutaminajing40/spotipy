@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+僕の才能,0.522,0.546,7,-5.978,1,0.0276,0.417,0.000124,0.117,0.165,133.901,audio_features,14v7tzUbkkMxLLGG4n28Mj,spotify:track:14v7tzUbkkMxLLGG4n28Mj,https://api.spotify.com/v1/tracks/14v7tzUbkkMxLLGG4n28Mj,https://api.spotify.com/v1/audio-analysis/14v7tzUbkkMxLLGG4n28Mj,286227,4

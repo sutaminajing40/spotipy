@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Voyager of Grace〜美の旅人,0.381,0.557,4,-5.868,1,0.0328,0.135,0.00735,0.164,0.35,73.144,audio_features,0AguB7upKP1bvAo7kGXVQ6,spotify:track:0AguB7upKP1bvAo7kGXVQ6,https://api.spotify.com/v1/tracks/0AguB7upKP1bvAo7kGXVQ6,https://api.spotify.com/v1/audio-analysis/0AguB7upKP1bvAo7kGXVQ6,159539,4

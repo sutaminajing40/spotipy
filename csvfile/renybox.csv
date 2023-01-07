@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+AUBE,0.575,0.786,6,-5.967,1,0.0428,0.000791,1.81e-06,0.115,0.663,155.02,audio_features,6Y5hWJyREFuWWHPhd0e7Dw,spotify:track:6Y5hWJyREFuWWHPhd0e7Dw,https://api.spotify.com/v1/tracks/6Y5hWJyREFuWWHPhd0e7Dw,https://api.spotify.com/v1/audio-analysis/6Y5hWJyREFuWWHPhd0e7Dw,237733,4

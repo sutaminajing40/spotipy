@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ヤットデタマン・ブギウギ・レディ,0.528,0.711,8,-10.369,1,0.109,0.0744,0,0.066,0.932,156.972,audio_features,2nCP6nN7dyJ6MilWoFGCa9,spotify:track:2nCP6nN7dyJ6MilWoFGCa9,https://api.spotify.com/v1/tracks/2nCP6nN7dyJ6MilWoFGCa9,https://api.spotify.com/v1/audio-analysis/2nCP6nN7dyJ6MilWoFGCa9,143333,3

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+アンカーチェイン feat.音街ウナ,0.67,0.94,0,-1.241,0,0.0717,0.18,1.44e-05,0.0496,0.971,95.034,audio_features,6FOTe2nF52mWp7vbgP67sm,spotify:track:6FOTe2nF52mWp7vbgP67sm,https://api.spotify.com/v1/tracks/6FOTe2nF52mWp7vbgP67sm,https://api.spotify.com/v1/audio-analysis/6FOTe2nF52mWp7vbgP67sm,208579,4

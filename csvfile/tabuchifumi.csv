@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ハニー・デイジー feat.音街ウナ,0.666,0.706,1,-9.406,1,0.0454,0.00602,0.00448,0.0968,0.964,149.95,audio_features,20ExMFPkeNtnvuabA4os4T,spotify:track:20ExMFPkeNtnvuabA4os4T,https://api.spotify.com/v1/tracks/20ExMFPkeNtnvuabA4os4T,https://api.spotify.com/v1/audio-analysis/20ExMFPkeNtnvuabA4os4T,126800,4
+惰性的モラトリアム,0.446,0.801,5,-7.076,0,0.0735,0.00347,3.88e-05,0.111,0.64,130.331,audio_features,73ZtpIERQSUaV8Z2Yyv9Sn,spotify:track:73ZtpIERQSUaV8Z2Yyv9Sn,https://api.spotify.com/v1/tracks/73ZtpIERQSUaV8Z2Yyv9Sn,https://api.spotify.com/v1/audio-analysis/73ZtpIERQSUaV8Z2Yyv9Sn,201692,4

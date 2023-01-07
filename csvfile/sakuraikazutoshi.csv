@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Shirushi strings orchestra version,0.216,0.16,2,-13.514,1,0.0364,0.872,0.886,0.0604,0.0619,63.291,audio_features,4ROUZqKNVhkfnnf3KlEmqV,spotify:track:4ROUZqKNVhkfnnf3KlEmqV,https://api.spotify.com/v1/tracks/4ROUZqKNVhkfnnf3KlEmqV,https://api.spotify.com/v1/audio-analysis/4ROUZqKNVhkfnnf3KlEmqV,270480,4

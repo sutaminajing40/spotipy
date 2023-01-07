@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+PINK SPIDER,0.525,0.973,7,-4.698,1,0.102,0.00134,0,0.334,0.346,97.97,audio_features,4RTH5YddroU7lneZIRbzPF,spotify:track:4RTH5YddroU7lneZIRbzPF,https://api.spotify.com/v1/tracks/4RTH5YddroU7lneZIRbzPF,https://api.spotify.com/v1/audio-analysis/4RTH5YddroU7lneZIRbzPF,224587,4

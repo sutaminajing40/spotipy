@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+愛のことば,0.628,0.372,2,-6.858,1,0.0262,0.919,0.00138,0.107,0.589,105.937,audio_features,3EJZr8bc6UJS3blLejRmLg,spotify:track:3EJZr8bc6UJS3blLejRmLg,https://api.spotify.com/v1/tracks/3EJZr8bc6UJS3blLejRmLg,https://api.spotify.com/v1/audio-analysis/3EJZr8bc6UJS3blLejRmLg,309827,4
+愛のことば,0.629,0.373,2,-6.857,1,0.0261,0.92,0.0014,0.107,0.597,105.935,audio_features,5BbcAarfY8TLtJXr4Iz85F,spotify:track:5BbcAarfY8TLtJXr4Iz85F,https://api.spotify.com/v1/tracks/5BbcAarfY8TLtJXr4Iz85F,https://api.spotify.com/v1/audio-analysis/5BbcAarfY8TLtJXr4Iz85F,309827,4

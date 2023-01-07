@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+米,0.486,0.576,5,-7.409,1,0.0259,0.681,0,0.0798,0.8,97.039,audio_features,3kV45hgv32so9ovzEUfrcv,spotify:track:3kV45hgv32so9ovzEUfrcv,https://api.spotify.com/v1/tracks/3kV45hgv32so9ovzEUfrcv,https://api.spotify.com/v1/audio-analysis/3kV45hgv32so9ovzEUfrcv,251627,4

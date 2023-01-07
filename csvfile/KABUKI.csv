@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Invasion,0.476,0.785,0,-6.233,0,0.0906,1.81e-05,0.578,0.37,0.497,109.882,audio_features,7HiglQPbrRwfvew9jDB5fp,spotify:track:7HiglQPbrRwfvew9jDB5fp,https://api.spotify.com/v1/tracks/7HiglQPbrRwfvew9jDB5fp,https://api.spotify.com/v1/audio-analysis/7HiglQPbrRwfvew9jDB5fp,245487,4

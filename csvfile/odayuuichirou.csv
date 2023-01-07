@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+CIRCLE,0.468,0.384,9,-11.605,1,0.03,0.217,0.362,0.116,0.145,135.139,audio_features,1DGKTQvebd10DqGwndRgPt,spotify:track:1DGKTQvebd10DqGwndRgPt,https://api.spotify.com/v1/tracks/1DGKTQvebd10DqGwndRgPt,https://api.spotify.com/v1/audio-analysis/1DGKTQvebd10DqGwndRgPt,652373,3

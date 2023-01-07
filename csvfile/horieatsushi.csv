@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ストレンジカメレオン,0.391,0.613,7,-4.704,1,0.0398,0.71,0,0.972,0.234,144.334,audio_features,6Gdb08FRQvWdxlYM7X3MYj,spotify:track:6Gdb08FRQvWdxlYM7X3MYj,https://api.spotify.com/v1/tracks/6Gdb08FRQvWdxlYM7X3MYj,https://api.spotify.com/v1/audio-analysis/6Gdb08FRQvWdxlYM7X3MYj,359013,4

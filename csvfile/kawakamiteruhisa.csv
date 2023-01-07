@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Hakodayori,0.335,0.264,7,-11.173,1,0.0378,0.669,0.00268,0.0837,0.0993,137.394,audio_features,4wreIwwRbUfMEJiPUuDfnN,spotify:track:4wreIwwRbUfMEJiPUuDfnN,https://api.spotify.com/v1/tracks/4wreIwwRbUfMEJiPUuDfnN,https://api.spotify.com/v1/audio-analysis/4wreIwwRbUfMEJiPUuDfnN,237872,4
+Seizonritu,0.415,0.41,9,-9.802,0,0.0369,0.701,0.000176,0.0988,0.0622,107.231,audio_features,3w8RHUuCKxtPZc7sJr5BRc,spotify:track:3w8RHUuCKxtPZc7sJr5BRc,https://api.spotify.com/v1/tracks/3w8RHUuCKxtPZc7sJr5BRc,https://api.spotify.com/v1/audio-analysis/3w8RHUuCKxtPZc7sJr5BRc,254277,4

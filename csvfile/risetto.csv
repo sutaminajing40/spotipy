@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+零れ (feat.Lily),0.409,0.862,10,-1.452,1,0.0435,0.00152,0,0.369,0.291,99.975,audio_features,2Odx853JqjOiQgqRTsQssV,spotify:track:2Odx853JqjOiQgqRTsQssV,https://api.spotify.com/v1/tracks/2Odx853JqjOiQgqRTsQssV,https://api.spotify.com/v1/audio-analysis/2Odx853JqjOiQgqRTsQssV,196800,4

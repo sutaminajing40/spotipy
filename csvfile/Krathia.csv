@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ABYSS,0.224,0.421,0,-7.865,0,0.033,0.739,0,0.123,0.261,170.954,audio_features,1VXioafBMBenUHjXQwxXdS,spotify:track:1VXioafBMBenUHjXQwxXdS,https://api.spotify.com/v1/tracks/1VXioafBMBenUHjXQwxXdS,https://api.spotify.com/v1/audio-analysis/1VXioafBMBenUHjXQwxXdS,200739,5
+SweetDream,0.746,0.321,0,-16.18,1,0.0595,0.609,0.195,0.247,0.609,164.006,audio_features,2xUdlXt29krP38eFDsNwhX,spotify:track:2xUdlXt29krP38eFDsNwhX,https://api.spotify.com/v1/tracks/2xUdlXt29krP38eFDsNwhX,https://api.spotify.com/v1/audio-analysis/2xUdlXt29krP38eFDsNwhX,96550,4

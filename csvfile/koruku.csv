@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+歪なユートピア,0.872,0.785,7,-7.372,1,0.0646,0.691,0.0731,0.0595,0.888,128.996,audio_features,08fj9PfQ7tgh4j9s6pUTZ1,spotify:track:08fj9PfQ7tgh4j9s6pUTZ1,https://api.spotify.com/v1/tracks/08fj9PfQ7tgh4j9s6pUTZ1,https://api.spotify.com/v1/audio-analysis/08fj9PfQ7tgh4j9s6pUTZ1,213488,4

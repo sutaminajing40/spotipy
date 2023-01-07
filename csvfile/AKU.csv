@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+NAINA,0.578,0.971,11,-1.862,1,0.239,0.457,0.0367,0.152,0.718,155.528,audio_features,4QTAQ7Vegrv0tBePvuDeqG,spotify:track:4QTAQ7Vegrv0tBePvuDeqG,https://api.spotify.com/v1/tracks/4QTAQ7Vegrv0tBePvuDeqG,https://api.spotify.com/v1/audio-analysis/4QTAQ7Vegrv0tBePvuDeqG,161829,4
+Brain Grease,0.562,0.609,9,-10.975,1,0.0337,0.0248,0.761,0.122,0.342,127.948,audio_features,2CftG6mZwfrNtfsAmuaE5q,spotify:track:2CftG6mZwfrNtfsAmuaE5q,https://api.spotify.com/v1/tracks/2CftG6mZwfrNtfsAmuaE5q,https://api.spotify.com/v1/audio-analysis/2CftG6mZwfrNtfsAmuaE5q,348950,4

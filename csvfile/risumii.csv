@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+アンスロポフォビア,0.501,0.934,7,-3.438,1,0.13,0.00249,0,0.0602,0.316,196.163,audio_features,6VipvbCFVGg0q3clKXnCEO,spotify:track:6VipvbCFVGg0q3clKXnCEO,https://api.spotify.com/v1/tracks/6VipvbCFVGg0q3clKXnCEO,https://api.spotify.com/v1/audio-analysis/6VipvbCFVGg0q3clKXnCEO,200816,4

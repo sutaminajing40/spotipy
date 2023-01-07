@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+H (feat.GUMI),0.87,0.97,7,-0.502,1,0.0423,0.646,0.000172,0.33,0.973,130.01,audio_features,2hKEgfCBVqd5tD0rlTA3xf,spotify:track:2hKEgfCBVqd5tD0rlTA3xf,https://api.spotify.com/v1/tracks/2hKEgfCBVqd5tD0rlTA3xf,https://api.spotify.com/v1/audio-analysis/2hKEgfCBVqd5tD0rlTA3xf,159692,4
+アオゾラ・コンプレッサー (feat.GUMI),0.413,0.778,9,-4.633,0,0.0321,0.0812,1.05e-05,0.0548,0.447,156.983,audio_features,60zpMiGUdynoINt1pHPvoc,spotify:track:60zpMiGUdynoINt1pHPvoc,https://api.spotify.com/v1/tracks/60zpMiGUdynoINt1pHPvoc,https://api.spotify.com/v1/audio-analysis/60zpMiGUdynoINt1pHPvoc,259873,4

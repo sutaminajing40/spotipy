@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Carbon Heart,0.485,0.257,3,-13.473,1,0.0553,0.881,0,0.0669,0.362,97.535,audio_features,2FZMhgwivb8cikRvaxmKES,spotify:track:2FZMhgwivb8cikRvaxmKES,https://api.spotify.com/v1/tracks/2FZMhgwivb8cikRvaxmKES,https://api.spotify.com/v1/audio-analysis/2FZMhgwivb8cikRvaxmKES,164212,3

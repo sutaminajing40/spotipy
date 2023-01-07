@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+さまーぶれーく feat.音街ウナ,0.581,0.884,0,-5.571,0,0.0483,0.246,0.000151,0.128,0.313,161.955,audio_features,15mxkU1hBDxpjZUoneATdC,spotify:track:15mxkU1hBDxpjZUoneATdC,https://api.spotify.com/v1/tracks/15mxkU1hBDxpjZUoneATdC,https://api.spotify.com/v1/audio-analysis/15mxkU1hBDxpjZUoneATdC,196296,4

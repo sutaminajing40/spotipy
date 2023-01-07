@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+BKBKC,0.656,0.873,1,-6.212,1,0.0293,0.00299,0.0144,0.211,0.88,135.978,audio_features,5gAaFy5PkUF8q7Tf4WpCdO,spotify:track:5gAaFy5PkUF8q7Tf4WpCdO,https://api.spotify.com/v1/tracks/5gAaFy5PkUF8q7Tf4WpCdO,https://api.spotify.com/v1/audio-analysis/5gAaFy5PkUF8q7Tf4WpCdO,134407,4

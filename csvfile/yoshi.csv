@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+CHAMP,0.609,0.515,5,-15.174,0,0.282,0.458,3.05e-05,0.188,0.175,140.007,audio_features,2eawLXA4QavdYexO6JSlql,spotify:track:2eawLXA4QavdYexO6JSlql,https://api.spotify.com/v1/tracks/2eawLXA4QavdYexO6JSlql,https://api.spotify.com/v1/audio-analysis/2eawLXA4QavdYexO6JSlql,142278,4

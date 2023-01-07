@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ワンダールインズ,0.665,0.821,1,-4.552,1,0.121,0.0156,0.000228,0.274,0.719,142.957,audio_features,0KJK8zSp8AMoKEYY03Sr26,spotify:track:0KJK8zSp8AMoKEYY03Sr26,https://api.spotify.com/v1/tracks/0KJK8zSp8AMoKEYY03Sr26,https://api.spotify.com/v1/audio-analysis/0KJK8zSp8AMoKEYY03Sr26,152267,4
+アブセンティー,0.541,0.938,7,-3.148,1,0.162,0.00622,2.34e-05,0.329,0.596,121.913,audio_features,1vmDJXgaGJVk4SJi1iTqKj,spotify:track:1vmDJXgaGJVk4SJi1iTqKj,https://api.spotify.com/v1/tracks/1vmDJXgaGJVk4SJi1iTqKj,https://api.spotify.com/v1/audio-analysis/1vmDJXgaGJVk4SJi1iTqKj,208525,4

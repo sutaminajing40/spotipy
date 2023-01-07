@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+藍に溺れる (feat. 初音ミク),0.501,0.925,7,-6.652,1,0.0361,0.129,0.142,0.22,0.901,105.005,audio_features,0LjWAZfRthL3BmPLWoep8v,spotify:track:0LjWAZfRthL3BmPLWoep8v,https://api.spotify.com/v1/tracks/0LjWAZfRthL3BmPLWoep8v,https://api.spotify.com/v1/audio-analysis/0LjWAZfRthL3BmPLWoep8v,218880,4

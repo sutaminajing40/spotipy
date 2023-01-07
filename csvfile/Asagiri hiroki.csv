@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Undercover,0.465,0.643,8,-5.123,1,0.0365,0.716,0,0.0961,0.599,175.939,audio_features,0ADQc5sbo0tEY7IeQq8ohI,spotify:track:0ADQc5sbo0tEY7IeQq8ohI,https://api.spotify.com/v1/tracks/0ADQc5sbo0tEY7IeQq8ohI,https://api.spotify.com/v1/audio-analysis/0ADQc5sbo0tEY7IeQq8ohI,292830,4

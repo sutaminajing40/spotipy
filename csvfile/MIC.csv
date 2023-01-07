@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Fluchtwäg,0.643,0.864,7,-5.968,1,0.318,0.216,0,0.181,0.705,95.037,audio_features,70DEqWCiBGJAUVi2Z727iu,spotify:track:70DEqWCiBGJAUVi2Z727iu,https://api.spotify.com/v1/tracks/70DEqWCiBGJAUVi2Z727iu,https://api.spotify.com/v1/audio-analysis/70DEqWCiBGJAUVi2Z727iu,212693,4
+Wägbegleiter (feat. Levin),0.751,0.771,5,-6.352,0,0.21,0.28,0,0.145,0.527,94.576,audio_features,0kDrKzT7n196kQChxtcH2u,spotify:track:0kDrKzT7n196kQChxtcH2u,https://api.spotify.com/v1/tracks/0kDrKzT7n196kQChxtcH2u,https://api.spotify.com/v1/audio-analysis/0kDrKzT7n196kQChxtcH2u,229533,4

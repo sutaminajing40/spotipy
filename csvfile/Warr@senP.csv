@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Psychopath_Filter feat.神威がくぽ,0.27,0.849,4,-3.685,0,0.048,0.00188,0.0701,0.431,0.21,98.086,audio_features,4dV3R1hrlIrRCfYjQeOPkT,spotify:track:4dV3R1hrlIrRCfYjQeOPkT,https://api.spotify.com/v1/tracks/4dV3R1hrlIrRCfYjQeOPkT,https://api.spotify.com/v1/audio-analysis/4dV3R1hrlIrRCfYjQeOPkT,265694,4
+モノクロニクル (feat.GUMI),0.504,0.395,7,-8.542,1,0.0264,0.396,0.0459,0.13,0.324,86.034,audio_features,6MA8mFTnKPsWXvKztJl7jB,spotify:track:6MA8mFTnKPsWXvKztJl7jB,https://api.spotify.com/v1/tracks/6MA8mFTnKPsWXvKztJl7jB,https://api.spotify.com/v1/audio-analysis/6MA8mFTnKPsWXvKztJl7jB,259186,4

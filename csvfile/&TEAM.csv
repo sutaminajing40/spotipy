@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Under the skin,0.652,0.764,6,-4.463,0,0.0402,0.000436,0,0.275,0.367,113.272,audio_features,14OcSHjrsHoZBJHwaYefH7,spotify:track:14OcSHjrsHoZBJHwaYefH7,https://api.spotify.com/v1/tracks/14OcSHjrsHoZBJHwaYefH7,https://api.spotify.com/v1/audio-analysis/14OcSHjrsHoZBJHwaYefH7,191973,5

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Rep - dubby bunny Remix,0.702,0.904,1,-5.565,0,0.271,0.0205,0.00745,0.0422,0.598,91.024,audio_features,3kjBiMFBsndLOq2LDp7eYB,spotify:track:3kjBiMFBsndLOq2LDp7eYB,https://api.spotify.com/v1/tracks/3kjBiMFBsndLOq2LDp7eYB,https://api.spotify.com/v1/audio-analysis/3kjBiMFBsndLOq2LDp7eYB,200453,4

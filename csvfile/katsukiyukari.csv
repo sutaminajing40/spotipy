@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Still You,0.171,0.405,7,-7.155,0,0.0331,0.645,0.956,0.291,0.126,160.796,audio_features,2AXjwtZrEOXMoIyqAzncKm,spotify:track:2AXjwtZrEOXMoIyqAzncKm,https://api.spotify.com/v1/tracks/2AXjwtZrEOXMoIyqAzncKm,https://api.spotify.com/v1/audio-analysis/2AXjwtZrEOXMoIyqAzncKm,304053,5

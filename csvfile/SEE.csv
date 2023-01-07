@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+惑い (feat. 白木),0.496,0.874,6,-6.82,1,0.0622,0.00601,3.1e-05,0.278,0.65,167.961,audio_features,2oHKPGwnnZQLQ8zPgXqB6U,spotify:track:2oHKPGwnnZQLQ8zPgXqB6U,https://api.spotify.com/v1/tracks/2oHKPGwnnZQLQ8zPgXqB6U,https://api.spotify.com/v1/audio-analysis/2oHKPGwnnZQLQ8zPgXqB6U,101615,4

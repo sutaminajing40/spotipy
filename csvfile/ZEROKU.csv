@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+But Blind.,0.548,0.9,0,-4.618,1,0.106,0.0346,0.000242,0.0955,0.949,186.058,audio_features,2M5KofEa4yARr2khhyxzWD,spotify:track:2M5KofEa4yARr2khhyxzWD,https://api.spotify.com/v1/tracks/2M5KofEa4yARr2khhyxzWD,https://api.spotify.com/v1/audio-analysis/2M5KofEa4yARr2khhyxzWD,112258,4

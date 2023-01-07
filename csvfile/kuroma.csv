@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+シェルターの中で,0.287,0.31,11,-10.221,1,0.0372,0.378,0.743,0.166,0.216,149.83,audio_features,0UGW8GWpTiccNNEmD6XCVQ,spotify:track:0UGW8GWpTiccNNEmD6XCVQ,https://api.spotify.com/v1/tracks/0UGW8GWpTiccNNEmD6XCVQ,https://api.spotify.com/v1/audio-analysis/0UGW8GWpTiccNNEmD6XCVQ,285300,4

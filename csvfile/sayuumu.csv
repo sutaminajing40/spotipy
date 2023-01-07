@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+キューエンキュー - Exclamation mix,0.651,0.956,6,-1.589,1,0.078,0.149,0,0.242,0.797,132.129,audio_features,68cjd3J6UbGDQDqYFCMREp,spotify:track:68cjd3J6UbGDQDqYFCMREp,https://api.spotify.com/v1/tracks/68cjd3J6UbGDQDqYFCMREp,https://api.spotify.com/v1/audio-analysis/68cjd3J6UbGDQDqYFCMREp,225909,4
+キューエンキュー,0.594,0.949,1,-2.664,1,0.0754,0.324,0,0.341,0.912,132.082,audio_features,1Q9j6CG4B7IBiT0fdpWhzf,spotify:track:1Q9j6CG4B7IBiT0fdpWhzf,https://api.spotify.com/v1/tracks/1Q9j6CG4B7IBiT0fdpWhzf,https://api.spotify.com/v1/audio-analysis/1Q9j6CG4B7IBiT0fdpWhzf,224545,4

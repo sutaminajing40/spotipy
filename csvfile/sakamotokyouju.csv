@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+BOKURA NO SEKAI NI DANSUWO,0.627,0.833,9,-4.307,1,0.0327,0.021,2.08e-05,0.346,0.591,129.975,audio_features,6yATS1qPITz4j4PwrCV9Hg,spotify:track:6yATS1qPITz4j4PwrCV9Hg,https://api.spotify.com/v1/tracks/6yATS1qPITz4j4PwrCV9Hg,https://api.spotify.com/v1/audio-analysis/6yATS1qPITz4j4PwrCV9Hg,234733,4

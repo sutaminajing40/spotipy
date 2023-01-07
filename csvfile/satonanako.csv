@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Littl' Duckling,0.602,0.49,10,-6.252,1,0.1,0.837,5.24e-05,0.0994,0.715,167.796,audio_features,0Ir4MpQy2XQDrgV0Kdjqxy,spotify:track:0Ir4MpQy2XQDrgV0Kdjqxy,https://api.spotify.com/v1/tracks/0Ir4MpQy2XQDrgV0Kdjqxy,https://api.spotify.com/v1/audio-analysis/0Ir4MpQy2XQDrgV0Kdjqxy,162773,4

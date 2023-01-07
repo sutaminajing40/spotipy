@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Polaris,0.573,0.807,9,-3.24,1,0.0451,0.355,7.4e-06,0.281,0.606,173.978,audio_features,3eKao8avsbW4UQ6tXJPhzc,spotify:track:3eKao8avsbW4UQ6tXJPhzc,https://api.spotify.com/v1/tracks/3eKao8avsbW4UQ6tXJPhzc,https://api.spotify.com/v1/audio-analysis/3eKao8avsbW4UQ6tXJPhzc,264828,4

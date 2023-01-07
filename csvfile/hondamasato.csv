@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Eternal Island,0.634,0.857,7,-7.638,1,0.0325,0.0328,0.876,0.082,0.604,110.166,audio_features,7IK8O7Ke5o979uusu2gSBO,spotify:track:7IK8O7Ke5o979uusu2gSBO,https://api.spotify.com/v1/tracks/7IK8O7Ke5o979uusu2gSBO,https://api.spotify.com/v1/audio-analysis/7IK8O7Ke5o979uusu2gSBO,352840,4

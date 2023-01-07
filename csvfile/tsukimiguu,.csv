@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+しあわせのかくれんぼ,0.729,0.885,0,-5.081,1,0.029,0.09,0,0.0737,0.96,120.007,audio_features,12PmYVh5yixURFK29s3vj6,spotify:track:12PmYVh5yixURFK29s3vj6,https://api.spotify.com/v1/tracks/12PmYVh5yixURFK29s3vj6,https://api.spotify.com/v1/audio-analysis/12PmYVh5yixURFK29s3vj6,191579,4

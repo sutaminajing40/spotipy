@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Christmas Dreams,0.543,0.618,4,-11.244,0,0.102,0.512,5.68e-05,0.21,0.354,133.144,audio_features,5DSEq9ZLo7X24FE1aC8Ggw,spotify:track:5DSEq9ZLo7X24FE1aC8Ggw,https://api.spotify.com/v1/tracks/5DSEq9ZLo7X24FE1aC8Ggw,https://api.spotify.com/v1/audio-analysis/5DSEq9ZLo7X24FE1aC8Ggw,215350,4

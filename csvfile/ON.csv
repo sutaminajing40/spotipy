@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+LALALA,0.709,0.66,10,-3.501,0,0.064,0.595,2.04e-05,0.241,0.469,85.98,audio_features,6Mk380ydNgV57JWpwMRUNd,spotify:track:6Mk380ydNgV57JWpwMRUNd,https://api.spotify.com/v1/tracks/6Mk380ydNgV57JWpwMRUNd,https://api.spotify.com/v1/audio-analysis/6Mk380ydNgV57JWpwMRUNd,182893,4

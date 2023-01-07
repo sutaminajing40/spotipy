@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+blown,0.647,0.652,1,-5.96,1,0.376,0.473,0,0.0874,0.644,173.92,audio_features,2al4kZjvCZtwxNYuFY3tpc,spotify:track:2al4kZjvCZtwxNYuFY3tpc,https://api.spotify.com/v1/tracks/2al4kZjvCZtwxNYuFY3tpc,https://api.spotify.com/v1/audio-analysis/2al4kZjvCZtwxNYuFY3tpc,145405,4
+I Already Won,0.788,0.495,2,-8.117,1,0.38,0.314,0,0.0727,0.896,180.058,audio_features,1ElnSUq2jzZysgDmb3uVVC,spotify:track:1ElnSUq2jzZysgDmb3uVVC,https://api.spotify.com/v1/tracks/1ElnSUq2jzZysgDmb3uVVC,https://api.spotify.com/v1/audio-analysis/1ElnSUq2jzZysgDmb3uVVC,139041,4

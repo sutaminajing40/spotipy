@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Background,0.737,0.623,0,-8.342,1,0.252,0.0888,0.0366,0.0897,0.878,83.944,audio_features,7KA5oeALPnpiPTlRBC4MY4,spotify:track:7KA5oeALPnpiPTlRBC4MY4,https://api.spotify.com/v1/tracks/7KA5oeALPnpiPTlRBC4MY4,https://api.spotify.com/v1/audio-analysis/7KA5oeALPnpiPTlRBC4MY4,195500,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+STARBLACKGAZER,0.518,0.955,6,-1.562,0,0.187,0.0419,0,0.254,0.402,135.04,audio_features,4BpipkW958Vhn2CK0REGEC,spotify:track:4BpipkW958Vhn2CK0REGEC,https://api.spotify.com/v1/tracks/4BpipkW958Vhn2CK0REGEC,https://api.spotify.com/v1/audio-analysis/4BpipkW958Vhn2CK0REGEC,258000,4

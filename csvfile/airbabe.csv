@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+itumo,0.715,0.252,5,-17.822,1,0.0326,0.405,0.000581,0.196,0.623,109.022,audio_features,768HXRBzGxNkNV3BugpyNC,spotify:track:768HXRBzGxNkNV3BugpyNC,https://api.spotify.com/v1/tracks/768HXRBzGxNkNV3BugpyNC,https://api.spotify.com/v1/audio-analysis/768HXRBzGxNkNV3BugpyNC,216840,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+一輪の詩,0.633,0.723,2,-4.585,1,0.0307,0.0589,1.55e-06,0.115,0.734,132.054,audio_features,2sAYRSn9WBhoUEF7ztw19a,spotify:track:2sAYRSn9WBhoUEF7ztw19a,https://api.spotify.com/v1/tracks/2sAYRSn9WBhoUEF7ztw19a,https://api.spotify.com/v1/audio-analysis/2sAYRSn9WBhoUEF7ztw19a,262379,4

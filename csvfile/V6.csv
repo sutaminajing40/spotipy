@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+The Box - Original Mix,0.749,0.948,11,-4.411,0,0.0486,0.0233,0.246,0.355,0.652,123.0,audio_features,5Aiv6Um3ZjR46bepEZ3y3Y,spotify:track:5Aiv6Um3ZjR46bepEZ3y3Y,https://api.spotify.com/v1/tracks/5Aiv6Um3ZjR46bepEZ3y3Y,https://api.spotify.com/v1/audio-analysis/5Aiv6Um3ZjR46bepEZ3y3Y,259527,4
+The Box - 54ru Remix,0.705,0.889,11,-4.535,0,0.11,0.000253,0.778,0.51,0.372,125.027,audio_features,6Jf17cl8ELUVoW3Okyb1Oe,spotify:track:6Jf17cl8ELUVoW3Okyb1Oe,https://api.spotify.com/v1/tracks/6Jf17cl8ELUVoW3Okyb1Oe,https://api.spotify.com/v1/audio-analysis/6Jf17cl8ELUVoW3Okyb1Oe,246760,4

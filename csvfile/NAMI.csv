@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+I Want to Be Closer to You,0.722,0.625,9,-5.461,1,0.0241,0.337,8.91e-05,0.128,0.522,98.018,audio_features,1qPS1hGoZP3zec4CIKvQuA,spotify:track:1qPS1hGoZP3zec4CIKvQuA,https://api.spotify.com/v1/tracks/1qPS1hGoZP3zec4CIKvQuA,https://api.spotify.com/v1/audio-analysis/1qPS1hGoZP3zec4CIKvQuA,215269,4
+I Want to Get Closer to You,0.723,0.415,9,-12.447,1,0.025,0.497,0.000136,0.147,0.584,97.995,audio_features,4ObnWL2dCZDak4nwtF6vSm,spotify:track:4ObnWL2dCZDak4nwtF6vSm,https://api.spotify.com/v1/tracks/4ObnWL2dCZDak4nwtF6vSm,https://api.spotify.com/v1/audio-analysis/4ObnWL2dCZDak4nwtF6vSm,217133,4

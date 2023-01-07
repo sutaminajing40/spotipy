@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Wanted,0.691,0.47,9,-6.669,0,0.0372,0.358,0,0.107,0.452,105.915,audio_features,372dGbHskur7u2bCpgMDy7,spotify:track:372dGbHskur7u2bCpgMDy7,https://api.spotify.com/v1/tracks/372dGbHskur7u2bCpgMDy7,https://api.spotify.com/v1/audio-analysis/372dGbHskur7u2bCpgMDy7,210834,4

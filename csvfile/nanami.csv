@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ギョロリング♪,0.579,0.87,0,-5.943,1,0.029,0.0617,0,0.459,0.795,152.054,audio_features,1HF9TchpTQm3a3sQOOgOfi,spotify:track:1HF9TchpTQm3a3sQOOgOfi,https://api.spotify.com/v1/tracks/1HF9TchpTQm3a3sQOOgOfi,https://api.spotify.com/v1/audio-analysis/1HF9TchpTQm3a3sQOOgOfi,247895,4

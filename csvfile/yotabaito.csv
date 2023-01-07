@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+少女は願う,0.424,0.846,8,-4.958,1,0.0455,0.093,3.43e-06,0.0765,0.442,187.516,audio_features,7MtR1YtWSd8oS1de75fmU6,spotify:track:7MtR1YtWSd8oS1de75fmU6,https://api.spotify.com/v1/tracks/7MtR1YtWSd8oS1de75fmU6,https://api.spotify.com/v1/audio-analysis/7MtR1YtWSd8oS1de75fmU6,250412,4

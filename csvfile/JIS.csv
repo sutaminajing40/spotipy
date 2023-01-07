@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Mind therapy,0.518,0.961,10,-8.19,0,0.0371,0.000218,0.853,0.129,0.289,145.004,audio_features,3sbLV2p14zzF5Ho3g1BXIp,spotify:track:3sbLV2p14zzF5Ho3g1BXIp,https://api.spotify.com/v1/tracks/3sbLV2p14zzF5Ho3g1BXIp,https://api.spotify.com/v1/audio-analysis/3sbLV2p14zzF5Ho3g1BXIp,507030,4

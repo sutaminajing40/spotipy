@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+MAKE UP TONIGHT,0.651,0.785,9,-6.863,0,0.0433,0.188,1.47e-06,0.029,0.802,135.381,audio_features,0VIoOuE9ipjEDETDkjA16F,spotify:track:0VIoOuE9ipjEDETDkjA16F,https://api.spotify.com/v1/tracks/0VIoOuE9ipjEDETDkjA16F,https://api.spotify.com/v1/audio-analysis/0VIoOuE9ipjEDETDkjA16F,242413,4

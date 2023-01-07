@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+6/06,0.608,0.712,2,-6.457,1,0.0406,0.158,0,0.348,0.73,82.942,audio_features,29FbNdWF3w97f9yuN85XBZ,spotify:track:29FbNdWF3w97f9yuN85XBZ,https://api.spotify.com/v1/tracks/29FbNdWF3w97f9yuN85XBZ,https://api.spotify.com/v1/audio-analysis/29FbNdWF3w97f9yuN85XBZ,130720,4
+Who Do I Work for?,0.793,0.718,6,-5.312,1,0.323,0.0746,0,0.213,0.763,88.059,audio_features,5XaTppq3VdhiduFTOEIykl,spotify:track:5XaTppq3VdhiduFTOEIykl,https://api.spotify.com/v1/tracks/5XaTppq3VdhiduFTOEIykl,https://api.spotify.com/v1/audio-analysis/5XaTppq3VdhiduFTOEIykl,299624,4

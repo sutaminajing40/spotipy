@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+感傷的な推論で,0.278,0.915,0,-2.08,1,0.063,0.0108,0.00465,0.316,0.311,176.094,audio_features,3uT03AY1sFNWyYcp4VpSAp,spotify:track:3uT03AY1sFNWyYcp4VpSAp,https://api.spotify.com/v1/tracks/3uT03AY1sFNWyYcp4VpSAp,https://api.spotify.com/v1/audio-analysis/3uT03AY1sFNWyYcp4VpSAp,188000,5

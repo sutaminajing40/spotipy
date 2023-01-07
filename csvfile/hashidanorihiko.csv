@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+カゴメ・ケチャップ「赤いキッス」,0.782,0.405,2,-8.335,0,0.0941,0.443,0,0.0717,0.596,120.497,audio_features,2H8ZmZFLnb8TnBWI6EXDbr,spotify:track:2H8ZmZFLnb8TnBWI6EXDbr,https://api.spotify.com/v1/tracks/2H8ZmZFLnb8TnBWI6EXDbr,https://api.spotify.com/v1/audio-analysis/2H8ZmZFLnb8TnBWI6EXDbr,169173,4

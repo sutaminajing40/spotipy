@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Haze,0.505,0.567,7,-8.975,0,0.0346,0.238,0.00209,0.0909,0.319,93.938,audio_features,4ZWNoSi7NM8epqJo3GcAmF,spotify:track:4ZWNoSi7NM8epqJo3GcAmF,https://api.spotify.com/v1/tracks/4ZWNoSi7NM8epqJo3GcAmF,https://api.spotify.com/v1/audio-analysis/4ZWNoSi7NM8epqJo3GcAmF,230818,4
+4AM,0.551,0.37,2,-14.056,1,0.0318,0.318,0.000265,0.167,0.214,78.929,audio_features,4wWjjffxP6N6BwCLrNBCkh,spotify:track:4wWjjffxP6N6BwCLrNBCkh,https://api.spotify.com/v1/tracks/4wWjjffxP6N6BwCLrNBCkh,https://api.spotify.com/v1/audio-analysis/4wWjjffxP6N6BwCLrNBCkh,247732,4

@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ゴー・トゥ・大都会 -Instrumental-,0.653,0.865,8,-7.404,1,0.055,0.02,0.7,0.0978,0.396,127.963,audio_features,3TlJLXCT5Gdn04lmGA9OU6,spotify:track:3TlJLXCT5Gdn04lmGA9OU6,https://api.spotify.com/v1/tracks/3TlJLXCT5Gdn04lmGA9OU6,https://api.spotify.com/v1/audio-analysis/3TlJLXCT5Gdn04lmGA9OU6,170156,4
+砂糖じかけの電影街 -Instrumental-,0.627,0.918,8,-5.71,1,0.0418,0.00596,0.0644,0.215,0.862,129.022,audio_features,1zekqlL3TBjMohWBoRxwL5,spotify:track:1zekqlL3TBjMohWBoRxwL5,https://api.spotify.com/v1/tracks/1zekqlL3TBjMohWBoRxwL5,https://api.spotify.com/v1/audio-analysis/1zekqlL3TBjMohWBoRxwL5,226938,4

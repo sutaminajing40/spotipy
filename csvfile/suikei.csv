@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+从今以后,0.543,0.199,7,-15.698,1,0.0312,0.694,0.000143,0.123,0.2,99.961,audio_features,2hkmHg9MUuUjteqs0S0ePt,spotify:track:2hkmHg9MUuUjteqs0S0ePt,https://api.spotify.com/v1/tracks/2hkmHg9MUuUjteqs0S0ePt,https://api.spotify.com/v1/audio-analysis/2hkmHg9MUuUjteqs0S0ePt,343275,4

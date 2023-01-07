@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+さらば恋人,0.687,0.625,5,-4.559,1,0.0251,0.0333,0,0.104,0.893,107.055,audio_features,4HCjKdaVMdHPbCoxIBNrjZ,spotify:track:4HCjKdaVMdHPbCoxIBNrjZ,https://api.spotify.com/v1/tracks/4HCjKdaVMdHPbCoxIBNrjZ,https://api.spotify.com/v1/audio-analysis/4HCjKdaVMdHPbCoxIBNrjZ,205453,4

@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+最果ての譜,0.479,0.828,10,-4.911,1,0.0312,0.003,0.0219,0.327,0.456,136.036,audio_features,2CFjynHK1v60BrrAP0HSKM,spotify:track:2CFjynHK1v60BrrAP0HSKM,https://api.spotify.com/v1/tracks/2CFjynHK1v60BrrAP0HSKM,https://api.spotify.com/v1/audio-analysis/2CFjynHK1v60BrrAP0HSKM,160588,4
+空回りライブラリ,0.683,0.969,11,-4.005,0,0.046,0.0439,0,0.259,0.616,130.047,audio_features,3wIgckUkGiE0H81yoVvcUp,spotify:track:3wIgckUkGiE0H81yoVvcUp,https://api.spotify.com/v1/tracks/3wIgckUkGiE0H81yoVvcUp,https://api.spotify.com/v1/audio-analysis/3wIgckUkGiE0H81yoVvcUp,173740,4

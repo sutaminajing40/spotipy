@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+ハプスブルクの迎撃,0.474,0.978,5,-3.522,0,0.0953,0.199,1.07e-06,0.355,0.807,149.95,audio_features,0VkUTZC610HMezUGPBFact,spotify:track:0VkUTZC610HMezUGPBFact,https://api.spotify.com/v1/tracks/0VkUTZC610HMezUGPBFact,https://api.spotify.com/v1/audio-analysis/0VkUTZC610HMezUGPBFact,243600,4

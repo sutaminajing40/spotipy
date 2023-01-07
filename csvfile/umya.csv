@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+うなるな feat.音街ウナ,0.496,0.955,8,-5.056,1,0.0454,8.2e-05,0.252,0.101,0.583,110.043,audio_features,5AdK9k5KNE3cuyktkFSKco,spotify:track:5AdK9k5KNE3cuyktkFSKco,https://api.spotify.com/v1/tracks/5AdK9k5KNE3cuyktkFSKco,https://api.spotify.com/v1/audio-analysis/5AdK9k5KNE3cuyktkFSKco,321000,4

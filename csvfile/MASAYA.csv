@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Fallin',0.657,0.684,0,-3.601,1,0.0312,0.115,0,0.12,0.49,135.934,audio_features,6Gmj5085icM4c0mZHhz9bH,spotify:track:6Gmj5085icM4c0mZHhz9bH,https://api.spotify.com/v1/tracks/6Gmj5085icM4c0mZHhz9bH,https://api.spotify.com/v1/audio-analysis/6Gmj5085icM4c0mZHhz9bH,196371,4

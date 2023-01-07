@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+凍傷,0.141,0.798,9,-2.215,0,0.0454,0.000335,0.322,0.0421,0.541,174.633,audio_features,4V7QAVOUxsDSMxGoxKepyi,spotify:track:4V7QAVOUxsDSMxGoxKepyi,https://api.spotify.com/v1/tracks/4V7QAVOUxsDSMxGoxKepyi,https://api.spotify.com/v1/audio-analysis/4V7QAVOUxsDSMxGoxKepyi,250629,4
+ねむり,0.391,0.724,5,-2.878,1,0.0339,0.0625,1.52e-06,0.203,0.417,151.986,audio_features,7vhhC9mM2lgAiyeLRcq54n,spotify:track:7vhhC9mM2lgAiyeLRcq54n,https://api.spotify.com/v1/tracks/7vhhC9mM2lgAiyeLRcq54n,https://api.spotify.com/v1/audio-analysis/7vhhC9mM2lgAiyeLRcq54n,307105,4

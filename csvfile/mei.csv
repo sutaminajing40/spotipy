@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Creamsoda and Chandelier,0.729,0.831,1,-3.236,0,0.0357,0.0623,0,0.254,0.823,125.036,audio_features,6WRCGySKzeSFKkJspefdLI,spotify:track:6WRCGySKzeSFKkJspefdLI,https://api.spotify.com/v1/tracks/6WRCGySKzeSFKkJspefdLI,https://api.spotify.com/v1/audio-analysis/6WRCGySKzeSFKkJspefdLI,222000,4

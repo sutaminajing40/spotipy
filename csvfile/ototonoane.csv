@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+初音ミクの消失(feat.石川綾子),0.528,0.97,1,-2.884,1,0.0947,0.00145,0.000422,0.922,0.547,119.961,audio_features,6spuVEDNNCFW4J2NIINyrg,spotify:track:6spuVEDNNCFW4J2NIINyrg,https://api.spotify.com/v1/tracks/6spuVEDNNCFW4J2NIINyrg,https://api.spotify.com/v1/audio-analysis/6spuVEDNNCFW4J2NIINyrg,288600,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+KORITASUNOKAORUNATSUNOHI,0.623,0.793,2,-6.072,1,0.0709,0.219,0,0.332,0.535,116.004,audio_features,3f5xGEZrBLKA6bd2wbhguT,spotify:track:3f5xGEZrBLKA6bd2wbhguT,https://api.spotify.com/v1/tracks/3f5xGEZrBLKA6bd2wbhguT,https://api.spotify.com/v1/audio-analysis/3f5xGEZrBLKA6bd2wbhguT,329291,4

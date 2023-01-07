@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+響鳴回路 (feat. KAITO&MEIKO&巡音ルカ),0.554,0.87,4,-5.518,1,0.0355,0.214,0,0.261,0.351,99.991,audio_features,5ox0Wn6p36m4xQdnZu9qn1,spotify:track:5ox0Wn6p36m4xQdnZu9qn1,https://api.spotify.com/v1/tracks/5ox0Wn6p36m4xQdnZu9qn1,https://api.spotify.com/v1/audio-analysis/5ox0Wn6p36m4xQdnZu9qn1,292733,3

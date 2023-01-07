@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+DELTA STRIP〜White Ring,0.495,0.91,11,-5.633,0,0.201,0.00153,0,0.215,0.494,159.976,audio_features,6nvpcKxETgVFmV76s5pSqr,spotify:track:6nvpcKxETgVFmV76s5pSqr,https://api.spotify.com/v1/tracks/6nvpcKxETgVFmV76s5pSqr,https://api.spotify.com/v1/audio-analysis/6nvpcKxETgVFmV76s5pSqr,225733,4
+DELTA STRIP〜White Ring,0.504,0.905,11,-5.756,0,0.188,0.00159,0,0.163,0.484,159.987,audio_features,3Z6HcrUuUuT38aTHNkKoq7,spotify:track:3Z6HcrUuUuT38aTHNkKoq7,https://api.spotify.com/v1/tracks/3Z6HcrUuUuT38aTHNkKoq7,https://api.spotify.com/v1/audio-analysis/3Z6HcrUuUuT38aTHNkKoq7,225533,4

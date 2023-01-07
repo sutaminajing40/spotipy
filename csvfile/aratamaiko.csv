@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+mochi-mochi.cat feat.音街ウナ,0.809,0.869,1,-3.219,0,0.0367,0.0402,0,0.178,0.904,125.03,audio_features,5GvV0kCX0uTO7Uai41kDnj,spotify:track:5GvV0kCX0uTO7Uai41kDnj,https://api.spotify.com/v1/tracks/5GvV0kCX0uTO7Uai41kDnj,https://api.spotify.com/v1/audio-analysis/5GvV0kCX0uTO7Uai41kDnj,245760,4
+いろはのりずむ feat.音街ウナ,0.589,0.706,2,-7.726,1,0.0266,0.391,4.82e-05,0.0797,0.518,125.028,audio_features,5JHoUA2bk9fliy3ULbQ8iU,spotify:track:5JHoUA2bk9fliy3ULbQ8iU,https://api.spotify.com/v1/tracks/5JHoUA2bk9fliy3ULbQ8iU,https://api.spotify.com/v1/audio-analysis/5JHoUA2bk9fliy3ULbQ8iU,285047,4

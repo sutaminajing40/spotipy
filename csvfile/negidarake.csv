@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+PRIDE feat.CUL,0.364,0.736,5,-4.674,1,0.0388,1.17e-05,0.103,0.284,0.358,164.942,audio_features,0btaptf6ZQYBDqYP6b9uzL,spotify:track:0btaptf6ZQYBDqYP6b9uzL,https://api.spotify.com/v1/tracks/0btaptf6ZQYBDqYP6b9uzL,https://api.spotify.com/v1/audio-analysis/0btaptf6ZQYBDqYP6b9uzL,218889,4

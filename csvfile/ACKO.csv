@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+DREAMSHIP (アニメ「ONE PIECE」13thエンディングテーマ)(セルフカバー),0.434,0.896,1,-4.559,0,0.0654,0.000946,1.14e-05,0.124,0.521,162.07,audio_features,3qTZf92kqjIh26BkVtEKQ1,spotify:track:3qTZf92kqjIh26BkVtEKQ1,https://api.spotify.com/v1/tracks/3qTZf92kqjIh26BkVtEKQ1,https://api.spotify.com/v1/audio-analysis/3qTZf92kqjIh26BkVtEKQ1,280185,4

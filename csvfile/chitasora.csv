@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+夢のまた夢,0.786,0.179,1,-20.354,1,0.0956,0.766,0.603,0.101,0.398,143.945,audio_features,67AbM4zFsVngMPYKMjlLIR,spotify:track:67AbM4zFsVngMPYKMjlLIR,https://api.spotify.com/v1/tracks/67AbM4zFsVngMPYKMjlLIR,https://api.spotify.com/v1/audio-analysis/67AbM4zFsVngMPYKMjlLIR,154999,4

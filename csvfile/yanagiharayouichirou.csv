@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+恋のうたを歌う時,0.335,0.499,9,-7.108,1,0.0311,0.521,0,0.284,0.601,152.253,audio_features,01UL6t4rdGnqS60KK1UkA4,spotify:track:01UL6t4rdGnqS60KK1UkA4,https://api.spotify.com/v1/tracks/01UL6t4rdGnqS60KK1UkA4,https://api.spotify.com/v1/audio-analysis/01UL6t4rdGnqS60KK1UkA4,206500,5

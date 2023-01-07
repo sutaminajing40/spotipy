@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+砂遊び,0.611,0.202,3,-14.164,0,0.0347,0.931,2.83e-06,0.138,0.343,63.038,audio_features,1wFUYeoZj5M9mn702UB2sL,spotify:track:1wFUYeoZj5M9mn702UB2sL,https://api.spotify.com/v1/tracks/1wFUYeoZj5M9mn702UB2sL,https://api.spotify.com/v1/audio-analysis/1wFUYeoZj5M9mn702UB2sL,170952,4

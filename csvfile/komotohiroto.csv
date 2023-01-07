@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+汚職,0.173,0.95,9,-3.678,1,0.103,0.00156,0.0015,0.132,0.543,197.996,audio_features,3yXyahfyTAJ6TVhS1ZmA9M,spotify:track:3yXyahfyTAJ6TVhS1ZmA9M,https://api.spotify.com/v1/tracks/3yXyahfyTAJ6TVhS1ZmA9M,https://api.spotify.com/v1/audio-analysis/3yXyahfyTAJ6TVhS1ZmA9M,316747,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+The world of lies and the memory of the girl,0.394,0.683,2,-4.837,1,0.0349,0.496,0.0116,0.141,0.375,164.008,audio_features,183b8YbarTwaqsqtLXLLXh,spotify:track:183b8YbarTwaqsqtLXLLXh,https://api.spotify.com/v1/tracks/183b8YbarTwaqsqtLXLLXh,https://api.spotify.com/v1/audio-analysis/183b8YbarTwaqsqtLXLLXh,346098,4

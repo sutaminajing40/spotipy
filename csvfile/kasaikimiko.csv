@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+日清カップヌードル「ハッピーじゃないか」,0.504,0.455,10,-6.788,1,0.0351,0.615,0,0.501,0.617,134.621,audio_features,7is5Z2kFEaOPcRXlSuF2TC,spotify:track:7is5Z2kFEaOPcRXlSuF2TC,https://api.spotify.com/v1/tracks/7is5Z2kFEaOPcRXlSuF2TC,https://api.spotify.com/v1/audio-analysis/7is5Z2kFEaOPcRXlSuF2TC,99400,5

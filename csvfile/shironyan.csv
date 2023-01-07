@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+恋をしたような - Shironyan Remix,0.589,0.655,8,-7.264,1,0.036,0.0278,0.000151,0.0768,0.182,122.048,audio_features,1ouldL46LBkTIPbGvfnQ1v,spotify:track:1ouldL46LBkTIPbGvfnQ1v,https://api.spotify.com/v1/tracks/1ouldL46LBkTIPbGvfnQ1v,https://api.spotify.com/v1/audio-analysis/1ouldL46LBkTIPbGvfnQ1v,239534,4

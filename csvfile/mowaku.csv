@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Star Sound Afterimage Gem,0.58,0.904,1,-6.801,1,0.0371,0.00112,0.0067,0.0615,0.819,139.943,audio_features,2aEGMXIxtZAJWpgsmK4bTy,spotify:track:2aEGMXIxtZAJWpgsmK4bTy,https://api.spotify.com/v1/tracks/2aEGMXIxtZAJWpgsmK4bTy,https://api.spotify.com/v1/audio-analysis/2aEGMXIxtZAJWpgsmK4bTy,270022,4

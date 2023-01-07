@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+planetes,0.333,0.902,0,-6.496,0,0.0319,0.00096,0.949,0.0617,0.417,174.96,audio_features,4dlnNFaIEzcd9w5neO3vCE,spotify:track:4dlnNFaIEzcd9w5neO3vCE,https://api.spotify.com/v1/tracks/4dlnNFaIEzcd9w5neO3vCE,https://api.spotify.com/v1/audio-analysis/4dlnNFaIEzcd9w5neO3vCE,316587,4
+一緒に行こうよ、幸せな未来へ,0.608,0.951,2,-4.799,1,0.063,0.0828,0.000103,0.274,0.59,135.015,audio_features,33xGoAO4OM839lh4eiNwgV,spotify:track:33xGoAO4OM839lh4eiNwgV,https://api.spotify.com/v1/tracks/33xGoAO4OM839lh4eiNwgV,https://api.spotify.com/v1/audio-analysis/33xGoAO4OM839lh4eiNwgV,272600,4

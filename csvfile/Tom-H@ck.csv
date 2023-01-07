@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+シリカゲルでも吸いきれない夏がある,0.563,0.989,0,-1.831,1,0.102,0.0911,0,0.337,0.628,94.933,audio_features,0dnbTDVtbqJptxdESbgBcG,spotify:track:0dnbTDVtbqJptxdESbgBcG,https://api.spotify.com/v1/tracks/0dnbTDVtbqJptxdESbgBcG,https://api.spotify.com/v1/audio-analysis/0dnbTDVtbqJptxdESbgBcG,209613,4
+Naughtic,0.529,0.762,0,-6.44,1,0.0376,0.0677,0.93,0.0866,0.566,134.994,audio_features,3aw3XAqFyr3ruplalY3VZq,spotify:track:3aw3XAqFyr3ruplalY3VZq,https://api.spotify.com/v1/tracks/3aw3XAqFyr3ruplalY3VZq,https://api.spotify.com/v1/audio-analysis/3aw3XAqFyr3ruplalY3VZq,194783,4

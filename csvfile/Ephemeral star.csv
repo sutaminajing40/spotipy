@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+The final game of summer,0.48,0.912,8,-5.304,1,0.0469,0.0658,0.000224,0.094,0.586,165.067,audio_features,761VAirZwMH2PiWe19NLlN,spotify:track:761VAirZwMH2PiWe19NLlN,https://api.spotify.com/v1/tracks/761VAirZwMH2PiWe19NLlN,https://api.spotify.com/v1/audio-analysis/761VAirZwMH2PiWe19NLlN,251636,4
+Southern Cross,0.373,0.907,1,-5.618,1,0.0599,0.000505,0.0029,0.347,0.184,179.968,audio_features,40B26AvZz0lMqB5TuDoLUl,spotify:track:40B26AvZz0lMqB5TuDoLUl,https://api.spotify.com/v1/tracks/40B26AvZz0lMqB5TuDoLUl,https://api.spotify.com/v1/audio-analysis/40B26AvZz0lMqB5TuDoLUl,244186,4

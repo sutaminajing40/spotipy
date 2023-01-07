@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+超でかい竜が君を狙っている feat. 知声,0.811,0.804,6,-7.605,1,0.0738,0.217,2.23e-06,0.376,0.872,99.995,audio_features,2nWEW3Fhl0fLp1PMZ8UxPO,spotify:track:2nWEW3Fhl0fLp1PMZ8UxPO,https://api.spotify.com/v1/tracks/2nWEW3Fhl0fLp1PMZ8UxPO,https://api.spotify.com/v1/audio-analysis/2nWEW3Fhl0fLp1PMZ8UxPO,354000,4

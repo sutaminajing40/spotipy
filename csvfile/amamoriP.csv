@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Hoshizuna,0.731,0.788,5,-3.38,1,0.0864,0.322,0.00155,0.253,0.787,82.996,audio_features,3TGIaDnhC8mwBRWzAnidwn,spotify:track:3TGIaDnhC8mwBRWzAnidwn,https://api.spotify.com/v1/tracks/3TGIaDnhC8mwBRWzAnidwn,https://api.spotify.com/v1/audio-analysis/3TGIaDnhC8mwBRWzAnidwn,248000,4

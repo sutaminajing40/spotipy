@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+アイシテナイフ feat.音街ウナ&GUMI,0.45,0.693,6,-4.427,0,0.0296,0.000392,0.00609,0.292,0.693,180.25,audio_features,3b7w82Reh4ptYz04QUpZdE,spotify:track:3b7w82Reh4ptYz04QUpZdE,https://api.spotify.com/v1/tracks/3b7w82Reh4ptYz04QUpZdE,https://api.spotify.com/v1/audio-analysis/3b7w82Reh4ptYz04QUpZdE,201491,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+タキオン-tachyon-(HIGHSCHOOLSINGER.JP),0.596,0.976,2,-6.121,1,0.0501,0.00517,0,0.168,0.554,144.954,audio_features,6sJhts9eU4URqJBAuBXu63,spotify:track:6sJhts9eU4URqJBAuBXu63,https://api.spotify.com/v1/tracks/6sJhts9eU4URqJBAuBXu63,https://api.spotify.com/v1/audio-analysis/6sJhts9eU4URqJBAuBXu63,191866,4

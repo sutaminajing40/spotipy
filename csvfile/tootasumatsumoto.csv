@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+CHARIDAA,0.66,0.983,1,-2.83,0,0.0747,0.0101,6.18e-05,0.0603,0.934,99.997,audio_features,3kjUtFdZE2PpIqok8bfVyI,spotify:track:3kjUtFdZE2PpIqok8bfVyI,https://api.spotify.com/v1/tracks/3kjUtFdZE2PpIqok8bfVyI,https://api.spotify.com/v1/audio-analysis/3kjUtFdZE2PpIqok8bfVyI,218560,4
+WAA!,0.56,0.887,2,-2.759,1,0.0358,0.0519,0,0.314,0.905,138.008,audio_features,5nIlwQYIjqY4PFUGfsIdQb,spotify:track:5nIlwQYIjqY4PFUGfsIdQb,https://api.spotify.com/v1/tracks/5nIlwQYIjqY4PFUGfsIdQb,https://api.spotify.com/v1/audio-analysis/5nIlwQYIjqY4PFUGfsIdQb,234293,4

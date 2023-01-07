@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+かっぱとかえる,0.618,0.453,9,-6.346,0,0.0263,0.751,0.000138,0.144,0.448,100.218,audio_features,75DjRSaKyC8mP2xBT3gLtF,spotify:track:75DjRSaKyC8mP2xBT3gLtF,https://api.spotify.com/v1/tracks/75DjRSaKyC8mP2xBT3gLtF,https://api.spotify.com/v1/audio-analysis/75DjRSaKyC8mP2xBT3gLtF,215470,4
+ひのこ,0.509,0.405,7,-7.354,1,0.0308,0.478,1.69e-05,0.146,0.413,92.158,audio_features,3qjNBs6rbNKYGaRHkiptkd,spotify:track:3qjNBs6rbNKYGaRHkiptkd,https://api.spotify.com/v1/tracks/3qjNBs6rbNKYGaRHkiptkd,https://api.spotify.com/v1/audio-analysis/3qjNBs6rbNKYGaRHkiptkd,301283,4

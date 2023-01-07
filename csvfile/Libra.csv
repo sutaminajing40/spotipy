@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+The Shock - Original,0.394,0.654,2,-14.341,1,0.0527,0.0568,0.871,0.0723,0.409,134.826,audio_features,5dBCwVCqra4ld5e0mXKI84,spotify:track:5dBCwVCqra4ld5e0mXKI84,https://api.spotify.com/v1/tracks/5dBCwVCqra4ld5e0mXKI84,https://api.spotify.com/v1/audio-analysis/5dBCwVCqra4ld5e0mXKI84,250497,4

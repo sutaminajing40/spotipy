@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Rima das emoções,0.723,0.251,4,-10.328,0,0.0438,0.821,0.00122,0.108,0.162,125.161,audio_features,1sTJcHfBxOroG3m3VjhFLT,spotify:track:1sTJcHfBxOroG3m3VjhFLT,https://api.spotify.com/v1/tracks/1sTJcHfBxOroG3m3VjhFLT,https://api.spotify.com/v1/audio-analysis/1sTJcHfBxOroG3m3VjhFLT,281328,4

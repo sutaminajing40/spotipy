@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+yungevildope,0.531,0.497,0,-8.982,1,0.0367,0.302,0.00259,0.093,0.0391,124.936,audio_features,5VTqdkJSRvltZ2rFE9Dh0Q,spotify:track:5VTqdkJSRvltZ2rFE9Dh0Q,https://api.spotify.com/v1/tracks/5VTqdkJSRvltZ2rFE9Dh0Q,https://api.spotify.com/v1/audio-analysis/5VTqdkJSRvltZ2rFE9Dh0Q,153529,4

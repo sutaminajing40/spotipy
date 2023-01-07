@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+やさしい瞳,0.524,0.164,7,-17.297,1,0.059,0.985,0.938,0.132,0.316,131.338,audio_features,2XlI3AwvcRzm9JlRmLX2ZA,spotify:track:2XlI3AwvcRzm9JlRmLX2ZA,https://api.spotify.com/v1/tracks/2XlI3AwvcRzm9JlRmLX2ZA,https://api.spotify.com/v1/audio-analysis/2XlI3AwvcRzm9JlRmLX2ZA,158787,4

@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+JUGGERNAUT feat.GUMI,0.441,0.938,6,-4.355,0,0.0439,0.000706,0,0.246,0.463,99.012,audio_features,4skJdmHBsjIV6IIXWzhPPa,spotify:track:4skJdmHBsjIV6IIXWzhPPa,https://api.spotify.com/v1/tracks/4skJdmHBsjIV6IIXWzhPPa,https://api.spotify.com/v1/audio-analysis/4skJdmHBsjIV6IIXWzhPPa,241750,4

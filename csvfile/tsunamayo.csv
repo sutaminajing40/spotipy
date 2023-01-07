@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+バニラ,0.609,0.928,5,-2.47,1,0.112,0.563,0,0.103,0.821,124.008,audio_features,7vBuDOW334FiAH5Uuzihmm,spotify:track:7vBuDOW334FiAH5Uuzihmm,https://api.spotify.com/v1/tracks/7vBuDOW334FiAH5Uuzihmm,https://api.spotify.com/v1/audio-analysis/7vBuDOW334FiAH5Uuzihmm,232500,4

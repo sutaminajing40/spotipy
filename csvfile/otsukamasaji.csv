@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+男らしいってわかるかい,0.606,0.265,5,-13.568,1,0.0314,0.464,6.17e-06,0.624,0.397,62.164,audio_features,6u8AADTPpbwGkROz232ERq,spotify:track:6u8AADTPpbwGkROz232ERq,https://api.spotify.com/v1/tracks/6u8AADTPpbwGkROz232ERq,https://api.spotify.com/v1/audio-analysis/6u8AADTPpbwGkROz232ERq,382112,4
+カナリア,0.482,0.237,3,-12.978,1,0.045,0.968,9.4e-06,0.11,0.236,80.969,audio_features,62kz60vKvRC74u7JTPAdz9,spotify:track:62kz60vKvRC74u7JTPAdz9,https://api.spotify.com/v1/tracks/62kz60vKvRC74u7JTPAdz9,https://api.spotify.com/v1/audio-analysis/62kz60vKvRC74u7JTPAdz9,297960,4

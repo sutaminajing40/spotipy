@@ -1,0 +1,3 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+It's Magical,0.63,0.578,3,-8.742,1,0.0376,0.34,0,0.0699,0.844,129.985,audio_features,4YBr89IVekHv37BcEzPGjM,spotify:track:4YBr89IVekHv37BcEzPGjM,https://api.spotify.com/v1/tracks/4YBr89IVekHv37BcEzPGjM,https://api.spotify.com/v1/audio-analysis/4YBr89IVekHv37BcEzPGjM,286111,4
+希望,0.584,0.532,4,-6.938,1,0.0259,0.0814,2.53e-06,0.343,0.137,82.02,audio_features,36cDUghP06HnxZlIxpqHaZ,spotify:track:36cDUghP06HnxZlIxpqHaZ,https://api.spotify.com/v1/tracks/36cDUghP06HnxZlIxpqHaZ,https://api.spotify.com/v1/audio-analysis/36cDUghP06HnxZlIxpqHaZ,209500,4
